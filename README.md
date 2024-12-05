@@ -1,3 +1,5 @@
+NOSQL - Challenge
+
 This challenge is divided into 3 parts where Part 1 and Part 2 are done in NoSQL_setup_starter.ipynb and Part 3 is done in NoSQL_analysis_starter.ipynb.
 
 In this challenge, I have been contracted by the food magazine editors, Eat Safe, Love, to evaluate some of the ratings data iand assist their journalists and food critics to decide what articles to focus on in the future.
